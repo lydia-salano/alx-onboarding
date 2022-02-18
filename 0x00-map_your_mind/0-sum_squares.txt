@@ -1,0 +1,16 @@
+
+calculate the sum of squares of given input of numbers
+
+Set Sum=0
+;
+
+For i=1 to S 
+    do
+
+	Sum=sum+i times i
+
+Next i;
+
+
+
+Print Sum
